@@ -1,6 +1,6 @@
 # self-flying flappy bird
 self-flying flappy bird game with deep learning
-<br/>
+<br/><br/>
 ![pic](https://github.com/mehmetkesik/selfflyingflappybird/blob/master/asset/pic.png)
 
 # Usage
